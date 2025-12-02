@@ -3,3 +3,5 @@ openai
 pymupdf 
 python 
 apify 
+python-3.10
+
