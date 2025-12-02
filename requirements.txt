@@ -1,7 +1,10 @@
 streamlit  
 openai 
 pymupdf 
-python 
 apify 
-python-3.10
+streamlit==1.45.0
+openai>=1.0.0
+pymupdf==1.22.5
+
+
 
